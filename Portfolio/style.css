@@ -105,13 +105,13 @@ h4{
     right: 6px;
 }
 
-.about{
+#about{
     width: 100%;
     padding: 100px 0px;
     margin-bottom: 0px;
     background-color: #010513;
 }
-.about img{
+#about img{
     height: auto;
     width: 430px;;
 }
@@ -146,11 +146,11 @@ h4{
     font-size: 18px;
     margin-bottom: 45px;
 }
-.resume {
+#resume {
     padding: 100px ;
 }
 
-.resume h2 {
+#resume h2 {
     padding-bottom: 100px;
     font-size: 48px;
     color: #77AEE9;
@@ -190,7 +190,7 @@ h4{
     color: rgba(255, 255, 255, 0.685);
     margin: 10px 0;
 }
-.projects {
+#projects {
     text-align: center;    
     background-color: #010513;
     max-width: 1100px;
@@ -203,7 +203,7 @@ h4{
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-.projects h2{
+#projects h2{
     color: white;
     font-size: 48px;
     padding-bottom: 20px;
@@ -237,14 +237,14 @@ h4{
     background-color: #0056b3;
 }
 
-.contact {
+#contact {
     margin-top: 100px;
     background-color: #15286d;
     color: #fff;
     max-width: 100%;
 }
 
-.contact h2 {
+#contact h2 {
     font-size: 24px;
     color: #fff;
     text-align: center;
@@ -279,12 +279,12 @@ h4{
     font-weight: bold;
 }
 
-.contact li a{
+#contact li a{
     text-decoration: none;
     color: white;
 }
 
-.contact p{
+#contact p{
     max-width: 800px;
     margin: auto;
     padding: 30px;
@@ -298,13 +298,13 @@ h4{
     color: rgba(255, 255, 255, 0.674);
 }
 
-.gallery{
+#gallery{
     max-width: 100%;
     margin: auto;
     text-align: center;
 }
 
-.gallery h2{
+#gallery h2{
     font-size: 48px;
     color: white;
     padding: 50px;
